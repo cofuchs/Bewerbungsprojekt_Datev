@@ -6,7 +6,7 @@ Ziel war es, mit Java und der OpenPDF-Bibliothek eine PDF-Datei zu erstellen, di
 ## Inhalte
 
 - Java-Code (`Code_Datev.java`) 
-- PDF-Datei `Erstelltes_Projekt_Datev.pdf` als Ausgabeergebnis
+- PDF-Datei (`Erstelltes_Projekt_Datev.pdf` als Ausgabeergebnis)
 
 ## Warum dieses Projekt?
 
